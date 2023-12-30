@@ -1,4 +1,4 @@
-![img](https://github.com/hiftea/x-api-free/blob/main/banner.png?raw=true)
+# About
 - 🌱 Self Taught Developer
 - ✏️ Amateur UI/UX Designer
 - 🎧 Probably Listening Music
