@@ -1,5 +1,4 @@
-# About Me
-![img](https://pbs.twimg.com/media/GCllOMKXcAA7ZOa?format=jpg&name=large)
+![img](https://github.com/hiftea/x-api-free/blob/main/banner.png?raw=true)
 - 🌱 Self Taught Developer
 - ✏️ Amateur UI/UX Designer
 - 🎧 Probably Listening Music
